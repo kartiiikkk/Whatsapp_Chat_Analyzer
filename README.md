@@ -88,7 +88,7 @@ Since this project is **exploratory** (not predictive), evaluation is based on:
 ## 💻 How to Run  
 
 ### Clone the repository  
-- git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+- git clone https://github.com/kartiiikkk/Whatsapp_Chat_Analyzer
 - cd whatsapp-chat-analyzer
 
 ##Install dependencies
