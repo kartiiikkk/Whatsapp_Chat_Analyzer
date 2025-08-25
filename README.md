@@ -87,41 +87,41 @@ Since this project is **exploratory** (not predictive), evaluation is based on:
 
 ## 💻 How to Run  
 
-### Clone the repository  
+## Clone the repository  
 - git clone https://github.com/kartiiikkk/Whatsapp_Chat_Analyzer
 - cd whatsapp-chat-analyzer
 
-##Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-##Run the Streamlit App
+## Run the Streamlit App
 streamlit run app.py
 
 
 Then open http://localhost:8501 in your browser.
 
-##🌐 Deployment
+## 🌐 Deployment
 
 You can deploy this Streamlit app on:
 
-✅ Streamlit Cloud – Free and easy deployment
-🔁 HuggingFace Spaces – Streamlit/Gradio hosting
-☁ Heroku / AWS / GCP – For production-level hosting
+- ✅ Streamlit Cloud – Free and easy deployment
+- 🔁 HuggingFace Spaces – Streamlit/Gradio hosting
+- ☁ Heroku / AWS / GCP – For production-level hosting
 
 Steps for Streamlit Cloud:
 
-- Push your project to GitHub
+- **Push your project to GitHub**
 - Go to Streamlit Cloud
 - Click New App → Select repo → Choose app.py
 - Click Deploy
 
-##👩‍💻 Developers & Acknowledgements
+## 👩‍💻 Developers & Acknowledgements
 
 👨‍💻 Developed by Kartik Soni
 🎓 Student Developer | 💡 Data Science Enthusiast
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 
--WhatsApp for data exports
--Streamlit for interactive UI
--pandas, matplotlib, seaborn, wordcloud for analysis & visualization
+- WhatsApp for data exports
+- Streamlit for interactive UI
+- pandas, matplotlib, seaborn, wordcloud for analysis & visualization
